@@ -64,7 +64,7 @@ Below are some of the visuals from the EDA section:
 <img width="543" height="457" alt="image" src="https://github.com/user-attachments/assets/c215b2c2-5bb2-4c96-9a4a-2381c12561e2" />
 
 
-<img width="311" height="262" alt="image" src="https://github.com/user-attachments/assets/d3cfe739-fa7a-481c-9c76-664ebca8abaf" />
+<img width="569" height="463" alt="image" src="https://github.com/user-attachments/assets/bdee8a6d-9b00-45e8-b305-3b6875141030" />
 
 
 <img width="411" height="380" alt="image" src="https://github.com/user-attachments/assets/d6aab227-5f1a-4fc5-8f06-e4d553e87c6f" />
@@ -107,17 +107,17 @@ To evaluate the models and to pick the best-performing one, the following metric
 - BIC (Gaussian Mixture)
 - Dendogram (Agglomerative Clustering)
 
-     ### Dendogram (Agglomerative Clustering)
+     #### Dendogram (Agglomerative Clustering)
   
-     ### AIC/BIC (Gaussian Mixture)
+     #### AIC/BIC (Gaussian Mixture)
   
-     ### Dendogram (Agglomerative Clustering)
+     #### Dendogram (Agglomerative Clustering)
      
-     ### Silhouette Score
+     #### Silhouette Score
   
-     ### Calinski–Harabasz Score
+     #### Calinski–Harabasz Score
   
-     ### Davies–Bouldin
+     #### Davies–Bouldin
   
 
 ## Clusters
