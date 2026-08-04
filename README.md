@@ -121,6 +121,12 @@ To evaluate the models and to pick the best-performing one, the following metric
   
 
 ## Clusters
+**Cluster 0** - 
+
+**Cluster 1** - 
+
+**Cluster 2** - 
+
 
 ## Business Recommendations
 
