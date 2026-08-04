@@ -67,7 +67,7 @@ Below are some of the visuals from the EDA section:
 <img width="569" height="463" alt="image" src="https://github.com/user-attachments/assets/bdee8a6d-9b00-45e8-b305-3b6875141030" />
 
 
-<img width="411" height="380" alt="image" src="https://github.com/user-attachments/assets/d6aab227-5f1a-4fc5-8f06-e4d553e87c6f" />
+<img width="702" height="539" alt="image" src="https://github.com/user-attachments/assets/5329770c-0952-4d49-a2ad-f6c591ae2baa" />
 
 
 <img width="848" height="458" alt="image" src="https://github.com/user-attachments/assets/e49a3c6e-7873-4784-9149-7a8eec0d503e" />
@@ -103,11 +103,12 @@ To evaluate the models and to pick the best-performing one, the following metric
 - Calinski–Harabasz Score
 - Davies–Bouldin
 - Elbow Method (K-Means)
+- Dendogram (Agglomerative Clustering)
 - AIC (Gaussian Mixture)
 - BIC (Gaussian Mixture)
-- Dendogram (Agglomerative Clustering)
+  
 
-     #### Dendogram (Agglomerative Clustering)
+     #### Elbow Method (K-Means)
   
      #### AIC/BIC (Gaussian Mixture)
   
