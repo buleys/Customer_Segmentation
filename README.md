@@ -16,7 +16,7 @@ Some businesses often treat all customers the same, resulting in inefficient cam
 
   *This project uses the Customer Shopping Behavior Dataset, which was obtained from a public GitHub repository.
   Source: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf
-The dataset contains customer demographics and purchasing information including:
+The dataset contains customer demographics and purchasing information, including:
 - Age
 - Gender
 - Subscription status
@@ -27,6 +27,7 @@ The dataset contains customer demographics and purchasing information including:
 - Discount usage
 
   **Total observations:** 3900
+  
   **Total features:** 18
 
  
