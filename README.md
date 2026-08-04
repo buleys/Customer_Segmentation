@@ -14,7 +14,7 @@ Some businesses often treat all customers the same, resulting in inefficient cam
 
 ## Dataset
 
-  *This project uses the Customer Shopping Behavior Dataset, which was obtained from a public GitHub repository.
+This project uses the Customer Shopping Behavior Dataset, which was obtained from a public GitHub repository.
   
   Source: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf
   
@@ -106,6 +106,19 @@ To evaluate the models and to pick the best-performing one, the following metric
 - AIC (Gaussian Mixture)
 - BIC (Gaussian Mixture)
 - Dendogram (Agglomerative Clustering)
+
+     ### Dendogram (Agglomerative Clustering)
+  
+     ### AIC/BIC (Gaussian Mixture)
+  
+     ### Dendogram (Agglomerative Clustering)
+     
+     ### Silhouette Score
+  
+     ### Calinski–Harabasz Score
+  
+     ### Davies–Bouldin
+  
 
 ## Clusters
 
