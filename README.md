@@ -59,14 +59,55 @@ The dataset contains customer demographics and purchasing information, including
 The data was summarised to show the main characteristics and to extract information that a model may overlook. 
 Below are some of the visuals from the EDA section:
 
+<img width="543" height="457" alt="image" src="https://github.com/user-attachments/assets/c215b2c2-5bb2-4c96-9a4a-2381c12561e2" />
+
+<img width="311" height="262" alt="image" src="https://github.com/user-attachments/assets/d3cfe739-fa7a-481c-9c76-664ebca8abaf" />
+
+<img width="411" height="380" alt="image" src="https://github.com/user-attachments/assets/d6aab227-5f1a-4fc5-8f06-e4d553e87c6f" />
 
 
-  ## Author
+<img width="848" height="458" alt="image" src="https://github.com/user-attachments/assets/e49a3c6e-7873-4784-9149-7a8eec0d503e" />
+
+<img width="684" height="587" alt="image" src="https://github.com/user-attachments/assets/ec10ddda-6cf8-4800-a9e3-33342ddb136a" />
+
+## Data Preprocessing
+
+- Handled missing values
+- Removed redundant columns
+- Encoded categorical data
+- Standardized numerical variables using Z-score standardization
+
+## Machine Learning Models
+
+- K-Means
+- Agglomerative Clustering
+- Gaussian Mixture Model (GMM)
+
+The models were compared for different values of k.
+
+## Model Evaluation
+
+To evaluate the models and to pick the best-performing one, the following metrics were used:
+- Silhouette Score
+- Calinski–Harabasz Score
+- Davies–Bouldin
+- Elbow Method (K-Means)
+- AIC (Gaussian Mixture)
+- BIC (Gaussian Mixture)
+- Dendogram (Agglomerative Clustering)
+
+## Clusters
+
+## Business Recommendations
+
+## Author
    Nombulelo Msibi
 
-  LinkedIn:
-  GitHub:
-  Kaggle:
+  **LinkedIn:** www.linkedin.com/in/nombulelo-msibi-786b2466
+  
+  **GitHub:** https://github.com/buleys
+  
+  **Kaggle:** https://www.kaggle.com/buleys
   
 
 
