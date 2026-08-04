@@ -28,9 +28,9 @@ The dataset contains customer demographics and purchasing information, including
 - Review rating
 - Discount usage
 
-  **Total observations:** 3900
+     **Total observations:** 3900
   
-  **Total features:** 18
+     **Total features:** 18
 
  
 **Note:** The dataset was created by the original repository author. This project uses the dataset solely for educational purposes. All credit goes to Amlan Mohanty.
