@@ -87,14 +87,22 @@ Below are some of the visuals from the EDA section:
 
 <img width="1045" height="587" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/4bc4f4a1-cb84-462d-a72c-039d92abb4c8" />
 
+## Determine Optimal Number of Clusters
+Elbow Method (K-Means), Dendogram (Agglomerative Clustering), AIC (Gaussian Mixture), and BIC (Gaussian Mixture) were used to determine the optimal number of clusters. 
+
+<img width="839" height="538" alt="image" src="https://github.com/user-attachments/assets/d10d551d-a7f3-467f-81a7-4e82c83af929" />
+
+<img width="709" height="445" alt="image" src="https://github.com/user-attachments/assets/87a4f0f2-ae3e-47ed-800d-5c7bfe0f2d12" />
+
+<img width="558" height="388" alt="image" src="https://github.com/user-attachments/assets/77bb9bae-a054-4f7d-b6ba-46bab39796a1" />
+
 
 ## Machine Learning Models
+Systematic hyperparameter comparisons were applied for the following models: 
 
 - K-Means
 - Agglomerative Clustering
 - Gaussian Mixture Model (GMM)
-
-The models were compared for different values of k.
 
 ## Model Evaluation
 
@@ -102,26 +110,21 @@ To evaluate the models and to pick the best-performing one, the following metric
 - Silhouette Score
 - Calinski–Harabasz Score
 - Davies–Bouldin
-- Elbow Method (K-Means)
-- Dendogram (Agglomerative Clustering)
-- AIC (Gaussian Mixture)
-- BIC (Gaussian Mixture)
-  
+ 
+  <img width="1077" height="356" alt="image" src="https://github.com/user-attachments/assets/489534ba-5f5f-44b0-8c86-6d14fd93e6da" />
 
-     #### Elbow Method (K-Means)
-  
-     #### AIC/BIC (Gaussian Mixture)
-  
-     #### Dendogram (Agglomerative Clustering)
-     
-     #### Silhouette Score
-  
-     #### Calinski–Harabasz Score
-  
-     #### Davies–Bouldin
-  
+  <img width="1064" height="361" alt="image" src="https://github.com/user-attachments/assets/b97e6f68-0dea-4e36-bbd0-c51c19949afd" />
+
+  <img width="1061" height="340" alt="image" src="https://github.com/user-attachments/assets/6fe214e1-9e2c-4011-a6c3-944de0a3cb64" />
+
+
+
 
 ## Clusters
+
+#### PCA
+<img width="770" height="531" alt="image" src="https://github.com/user-attachments/assets/e5ba2976-9d77-4ddd-8f4a-a74b0b4e81ff" />
+
 **Cluster 0** - 
 
 **Cluster 1** - 
