@@ -125,6 +125,10 @@ To evaluate the models and to pick the best-performing one, the following metric
 #### PCA
 <img width="770" height="531" alt="image" src="https://github.com/user-attachments/assets/e5ba2976-9d77-4ddd-8f4a-a74b0b4e81ff" />
 
+#### Profiling Clusters
+<img width="637" height="157" alt="image" src="https://github.com/user-attachments/assets/f3255888-ce02-4b37-a755-be703c8d7481" />
+
+
 **Cluster 0** - 
 
 **Cluster 1** - 
