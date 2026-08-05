@@ -131,6 +131,7 @@ To evaluate the models and to pick the best-performing one, the following metric
 
 **Cluster 2** - 
 
+<img width="758" height="509" alt="image" src="https://github.com/user-attachments/assets/6af8290b-93a7-42db-a01a-2b0e6bb827e8" />
 
 ## Business Recommendations
 
